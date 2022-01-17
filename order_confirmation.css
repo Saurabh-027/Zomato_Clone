@@ -1,0 +1,46 @@
+.upper
+{
+    background-image: url(search1.jpg);
+}  
+.zpic 
+{
+    max-width: 12rem;
+    height: 2.7rem;
+    display: block;
+    cursor: pointer;
+}
+.pos{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.non-box
+{
+    width: 20rem;  
+    height: 20rem;
+    border: 3px solid black;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(255, 255, 255);
+    flex-shrink: 0;
+}
+
+.box-margin
+{
+    margin-top: 10rem;
+}
+
+.box-text
+{
+    color: red;
+    font-family:fantasy;
+    font-size: 5rem;
+}
+.last
+{
+    margin-right: 5rem;
+    margin-left: 5rem;
+    font-size: 3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
